@@ -139,4 +139,4 @@ streamtape.com, streamsb.net, feurl.com, pixeldrain.com, racaty.net,
 ## Deploying on Heroku
 - Deploying on Heroku Directly, Please Don't Abuse it. 
 
-<p><a href="https://heroku.com/deploy?template=https://github.com/5MysterySD/Tele-LeechX/tree/master)"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/Aadhi000/OP-LeechX/tree/master)"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
